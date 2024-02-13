@@ -1,2 +1,1 @@
-# HPC---exam-2
-exam 2 - visokoproizvoditelni izchisleniq
+# CUDA_3D_Matrix_Convolution
